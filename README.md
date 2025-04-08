@@ -1,4 +1,4 @@
-# Population Graph Model for Predicting Immunotherapy Clinical Benefits in Patients with Non-Small Cell Lung Cancer
+# Population Graph Model to Predict the Clinical Benefits of Immunotherapy in Patients with Non-small Cell Lung Cancer
 
 ## Project Structure
 
