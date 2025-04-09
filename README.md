@@ -13,6 +13,10 @@
 ## Important Note
 Before running the project:
 - Update the median survival time in the code with your own dataset (marked with comments)
-
+  
+Materials for readers:
+- MSK_CT_Features_1221.csv: CT features of the 136 patients in the MSK test dataset
+- MSK_Clinical_Baseline_Features.csv: Clinical Baseline Characteristics of the 136 patients in the MSK test dataset
+  
 ## Acknowledgments
 We gratefully acknowledge the contributions of Huang, Yongxiang and Chung, Albert CS to the PAE model.
